@@ -176,13 +176,14 @@
             <head>Detailed Contents</head>
             <p>The following section contains a detailed list of the materials in the
                 collection.</p>
+            <!-- START PJM Section -->
             <c01 level="series">
                 <did>
                     <unitid>Series 1</unitid>
                     <unittitle>Correspondence</unittitle>
                     <unitdatestructured unitdatetype="inclusive">
                         <daterange>
-                            <fromdate standarddate="">1951</fromdate>
+                            <fromdate standarddate="">1948</fromdate>
                             <todate standarddate="">1955</todate>
                         </daterange>
                     </unitdatestructured>
@@ -192,25 +193,40 @@
                 </scopecontent>
                 <c02 level="subseries">
                     <did>
-                        <unittitle/>
-                        <unitdate unitdatetype="inclusive" normal=""/>
-                        <container/>
+                        <container localtype="box">1</container>
+                        <container localtype="folder"></container>
+                        <unittitle>Photocopies of Correspondence</unittitle>
+                        <unitdate unitdatetype="inclusive" normal="1948-1955"/>
+                      
                     </did>
+               
                     <scopecontent>
                         <p/>
                     </scopecontent>
                     <c03>
                         <did>
-                            <unittitle/>
-                            <unitdate/>
-                            <container/>
+                            <unittitle>Outgoing - September 28, 1948 - September 5, 1953</unittitle>
+                            <unittitle>Outgoing - September 21, 1953- December 7, 1953</unittitle>
+                            <unittitle>Outgoing - January 9, 1954 - June 14, 1955</unittitle>
                         </did>
                     </c03>
+                    
                     <c03>
-                        <did>
-                            <unittitle/>
-                            <unitdate/>
-                            <container/>
+                       
+                        <did><container localtype="folder">1</container>
+                            <unittitle>Photocopies of Correspondence with Donald Davidson</unittitle>
+                            <unitdate unitdatetype="inclusive" normal="1950-1955"/>
+                            
+                            <unittitle>Incoming - October 14, 1950 - November 8, 1951</unittitle>
+                            <unittitle>Incoming - June 4, 1952 - July 13, 1952</unittitle>
+                            <unittitle>Incoming - August 15, 1952 - December 14, 1952</unittitle>
+                            <unittitle>Incoming - January 4, 1953 - March 29, 1953</unittitle>
+                            <unittitle>Incoming - April 2, 1953 - May 27, 1953</unittitle>
+                            <unittitle>Incoming - June 2, 1953 - August 25, 1953</unittitle>
+                            <unittitle>Incoming - September 4, 1953 - December 13, 1953</unittitle>
+                            <unittitle>Incoming - January 8, 1954 - August 10, 1954</unittitle>
+                            <unittitle>Incoming - September 13, 1954 - December 20, 1954</unittitle>
+                            <unittitle>Incoming - December 27, 1954 - December 8, 1955</unittitle>
                         </did>
                     </c03>
                     <c03>
@@ -229,6 +245,7 @@
                     </c03>
                 </c02>
             </c01>
+            <!-- END PJM Section -->
             <c01 level="series">
                 <did>
                     <unitid>Series 2</unitid>
@@ -293,3 +310,4 @@
         </dsc>
     </archdesc>
 </ead>
+
